@@ -1,0 +1,34 @@
+.cardImg{
+  height: 200px;
+  width: 200px;
+}
+.flex1{
+  display: flex;
+  flex-direction: column;
+}
+.title{
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: blue;
+  font-weight: 600;
+  width: 200px;
+
+}
+.inputField{
+  width: 50%;
+  height: 25px;
+  margin: 2% 20%;
+  text-align: center;
+}
+body{
+  background-color: beige;
+}
+.imageItem{
+  height: 250px;
+  width: 250px;
+}
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  gap:41px;
+}
